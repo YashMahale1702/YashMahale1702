@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Mahale
-- 👀 I’m interested in Coding, circuit designing.
+- 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Flutter app development.
 
 
