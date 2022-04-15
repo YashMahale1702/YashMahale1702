@@ -7,14 +7,19 @@
   - Postman
   - Jupyter Notebook
   - Android Studio
-  - Git/ Github
+  - Git / Github
+  - Figma
 
 - Languages
-  - c
-  - c++
+  - C
+  - C++
   - Dart
   - Javascript
   - Python
+
+- Frameworks
+  - Flutter
+  - React.js
   
 <!---
 YashMahale1702/YashMahale1702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
